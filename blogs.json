@@ -1,0 +1,107 @@
+{
+    "blogs": [
+      {
+        "id": 1,
+        "title": "Understanding JavaScript Closures",
+        "author": "John Doe",
+        "date": "2025-03-05",
+        "category": "JavaScript",
+        "tags": ["JavaScript", "Closures", "ES6"],
+        "content": "A closure is a function that remembers the variables from its outer scope...",
+        "image":"https://cdn.prod.website-files.com/610bb663a35dd3364ddbf08c/6217944a3023542e3a3ecebc_javascript-closures-p-1080.png",
+        "comments": [
+          {
+            "user": "Alice",
+            "comment": "Great explanation!",
+            "date": "2025-03-06"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "A Guide to React Hooks",
+        "author": "Jane Smith",
+        "date": "2025-03-03",
+        "category": "React",
+        "tags": ["React", "Hooks", "useState"],
+        "content": "React Hooks allow functional components to have state and other features...",
+        "image": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fblog_post_page%2F4093287%2Fcover_image%2Fregular_1708x683%2Fimage_0-90b4dd4b3e39da3f440afc2484e19126.png",
+        "comments": [
+          {
+            "user": "Bob",
+            "comment": "Very helpful guide, thanks!",
+            "date": "2025-03-04"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Mastering CSS Flexbox",
+        "author": "Emily Davis",
+        "date": "2025-03-01",
+        "category": "CSS",
+        "tags": ["CSS", "Flexbox", "Responsive Design"],
+        "content": "Flexbox is a powerful layout module in CSS that makes it easy to align elements...",
+        "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CHCog3Bn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3200/1%2AtiS4RzayAJdIeTEkNL1ztw.png",
+        "comments": [
+          {
+            "user": "Charlie",
+            "comment": "This helped me a lot, thanks!",
+            "date": "2025-03-02"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Introduction to TypeScript",
+        "author": "Mark Wilson",
+        "date": "2025-02-28",
+        "category": "TypeScript",
+        "tags": ["TypeScript", "JavaScript", "Static Typing"],
+        "content": "TypeScript is a superset of JavaScript that provides static typing...",
+        "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn4wn9wqqtuvr8dnq9xdm.png",
+        "comments": [
+          {
+            "user": "David",
+            "comment": "Great introduction to TypeScript!",
+            "date": "2025-02-28"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Building REST APIs with Node.js",
+        "author": "Sophia Lee",
+        "date": "2025-02-25",
+        "category": "Node.js",
+        "tags": ["Node.js", "REST API", "Express"],
+        "content": "REST APIs allow seamless communication between frontend and backend...",
+        "image": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fblog_post_page%2F4085508%2Fcover_image%2Fregular_1708x683%2Fcover-secure-rest-api-in-nodejs-80fb5c435d64e62d270b46dc5618d74e.png",
+        "comments": [
+          {
+            "user": "Emma",
+            "comment": "This tutorial is very helpful!",
+            "date": "2025-02-26"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Getting Started with MongoDB",
+        "author": "Michael Brown",
+        "date": "2025-02-20",
+        "category": "MongoDB",
+        "tags": ["MongoDB", "Database", "NoSQL"],
+        "content": "MongoDB is a NoSQL database that stores data in flexible JSON-like documents...",
+        "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5hk0c3umwxjbn51quwuc.png",
+        "comments": [
+          {
+            "user": "Olivia",
+            "comment": "Very well explained!",
+            "date": "2025-02-21"
+          }
+        ]
+      }
+    ]
+  }
+  
