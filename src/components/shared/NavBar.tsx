@@ -21,7 +21,7 @@ const NavBar = () => {
           <div className="hidden md:flex space-x-6 items-center">
             <Link href="/" className="text-white hover:text-gray-200">Home</Link>
             <Link href="/about" className={pathName === '/about'? "text-yellow-500 font-semibold underline" :"text-white hover:text-gray-200"}>About</Link>
-            <Link href="/Blogs" className="text-white hover:text-gray-200">Blogs</Link>
+            <Link href="/blogs" className="text-white hover:text-gray-200">Blogs</Link>
             <Link href="/contact" className="text-white hover:text-gray-200">Contact</Link>
           </div>
 
